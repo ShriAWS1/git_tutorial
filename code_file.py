@@ -1,2 +1,5 @@
-for i in range(1,5):
-    print(i)
+print("hello")
+print(i)
+print(cool)
+
+    #this a pull request and repo on GITHUB creation file
